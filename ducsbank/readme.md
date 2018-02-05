@@ -14,3 +14,21 @@
 - Netbeans 8.x and sublime text 3.x
 - MySQL workbench
 - chrome 64
+
+## Screenshots
+
+#### Login Page
+![Login Page](./screenshots/login.png)
+
+#### Customer Portal
+![Customer Home](./screenshots/customerHome.png)
+![Add Beneficiary](./screenshots/addBen.png)
+![Transfer Funds](./screenshots/transferFunds.png)
+![Account Statement](./screenshots/accountStatement.png)
+
+#### Manager Portal
+![Manager Home](./screenshots/managerHome.png)
+![View All Customers](./screenshots/viewAllCustomers.png)
+
+
+
