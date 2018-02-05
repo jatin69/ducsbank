@@ -9,7 +9,8 @@
 - Find the [Database dump here](./database_dump/)
 
 ## Test Stack
-- Xampp stack v3.2.2 
+- Xampp stack v3.2.2  
 - PHP 7.1 , MYSQLi 5.0
 - Netbeans 8.x and sublime text 3.x
+- MySQL workbench
 - chrome 64
