@@ -1,5 +1,6 @@
-nbproject/private/
-build/
+.vscode
+nbproject
+build
 nbbuild/
 dist/
 nbdist/
