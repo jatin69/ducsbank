@@ -33,7 +33,7 @@ if (!($_SESSION["customer_id"])) {
                     <a class="navbar-brand" href="#">DUCS BANK</a>
                 </div>
                 <ul class="nav navbar-nav">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="customerIndex.php">Home</a></li>
                     <li><a href="addBen.php">Add Beneficiary</a></li>
                     <li class="active"><a href="transferFunds.php">Transfer Funds</a></li>
                     <li><a href="viewStatement.php">View account Statement</a></li>
